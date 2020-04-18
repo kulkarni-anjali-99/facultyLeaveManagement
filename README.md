@@ -8,5 +8,12 @@ The project titled Leave Management Portal is a leave management software for au
 
 To run the project,
 1. Download the database dump file,  and store is under a particular schema in your database software.
-2. Download the jar files mentioned  and add them to your IDE
+2. Download the following jar files   and add them to your IDE
+ a. Activation.jar
+ b.mail.jar
+ c. myql-connector.jar
+ d. pop3.jar
+ e. smtp.jar
+ f. jcalendar.jar
+ g. jdatepicker.jar
 3. Open the Java editor and run executable_program_execution_starts_here.java
